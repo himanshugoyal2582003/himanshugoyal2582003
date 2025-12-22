@@ -150,6 +150,52 @@ Passionate about building scalable, user-friendly applications that bridge softw
 
 ---
 
+## 📌 Featured Projects
+
+### Gharzy - Food Delivery Platform
+**Currently Building** | **TypeScript & JavaScript**
+
+A comprehensive food delivery application designed to connect customers with restaurants seamlessly.
+
+**Features:**
+- User authentication & authorization (JWT-based)
+- Browse restaurants and food items with filtering
+- Real-time order tracking
+- Secure payment integration (Stripe/Razorpay)
+- Order management dashboard
+- Responsive UI/UX for all devices
+
+**Tech Stack:**
+- **Frontend**: React, Next.js, TypeScript
+- **Backend**: Node.js, Express, NestJS
+- **Database**: MongoDB, PostgreSQL
+- **Payments**: Stripe, Razorpay, UPI integration
+- **Deployment**: Vercel, AWS, MongoDB Atlas
+
+**Repositories:**
+- [Gharzy_main2](https://github.com/himanshugoyal2582003/Gharzy_main2) - TypeScript version
+- [Gharzy_main](https://github.com/himanshugoyal2582003/Gharzy_main) - JavaScript version
+
+**Status**: Actively improving features, UI/UX, and scaling infrastructure
+
+---
+
+### Other Notable Projects
+
+**Tasky** - Task Management Application
+- Build full-featured task management tool for productivity
+- Tech: JavaScript, MongoDB, Express.js
+
+**Netflix Clone** - UI/UX Recreation
+- Responsive Netflix landing page clone
+- Tech: HTML5, CSS3, JavaScript
+
+**Voyun** - HTML Project
+- Interactive landing page with modern design
+- Tech: HTML, CSS, JavaScript
+
+---
+
 ## 🤟 Let's Connect
 
 - **LinkedIn**: [linkedin.com/in/himanshu-goyal-b02bb1236](https://linkedin.com/in/himanshu-goyal-b02bb1236)
