@@ -1,110 +1,144 @@
 # Hi there, I'm Himanshu Goyal 👋
 
-**Full-Stack Developer | React & Next.js Specialist | Web3 Enthusiast**
+**B.Tech CSE Student @ GLA University | Full-Stack Developer | FinTech & Web3 Enthusiast**
 
-Welcome to my GitHub! I'm a passionate developer from Mathura, India, focused on building scalable web applications and seamless user experiences.
+Passionate about building scalable, user-friendly applications that bridge software engineering, blockchain, and fintech innovation. Currently exploring how FinTech + Blockchain + Cloud can transform digital payments and business processes.
 
 ---
 
-## 🚀 About Me
+## 🎪 About Me
 
-- 💻 Full-stack developer with expertise in modern JavaScript/TypeScript ecosystems
-- 🎨 UI/UX designer with skills in Figma, Adobe Illustrator, and Photoshop
-- 🌐 Passionate about Web3 and payment gateway integrations
-- 📱 Mobile development experience with React Native
-- 🏗️ Building robust backends with Node.js, Express, FastAPI, and NestJS
-- 📊 Data visualization and management with MongoDB, PostgreSQL, and Prisma ORM
+- 🎣 **B.Tech CSE** student at GLA University with a passion for software engineering and emerging technologies
+- 💻 Building **end-to-end full-stack applications** with secure payments & offline-first features
+- 🔌 Experimenting with **blockchain + Web3 protocols** for scalable, future-ready systems
+- ☁️ Integrating **cloud solutions** (AWS, Vercel, MongoDB Atlas) for production-grade deployments
+- 🎨 Blending **UI/UX design principles** into every project for accessibility & usability
+- 📚 Strengthening skills in **business analysis** and **scalable system design**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend & UI
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+### Full-Stack Development
+![MERN](https://img.shields.io/badge/MERN%20Stack-61DAFB?style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollo-graphql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B6B?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
-### Databases & ORMs
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+### APIs & Data Management
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B6B?style=flat) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollo-graphql&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi-2E333F?style=flat&logo=strapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white)
+### Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![MongoDB%20Atlas](https://img.shields.io/badge/MongoDB%20Atlas-13AA52?style=flat&logo=mongodb&logoColor=white)
 
-### Payments & Web3
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0055FF?style=flat)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white)
+### Payments & FinTech
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white) ![UPI](https://img.shields.io/badge/UPI-0055FF?style=flat) ![Digital%20Wallets](https://img.shields.io/badge/Digital%20Wallets-FF6B6B?style=flat)
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### Blockchain & Web3
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white) ![Smart%20Contracts](https://img.shields.io/badge/Smart%20Contracts-627EEA?style=flat) ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat)
 
-### DevOps & Platforms
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+### UI/UX & Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe%20Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white) ![Adobe%20Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ---
 
-## 📌 Key Projects
+## 🌟 What I Do
 
-### Gharzy
-- Full-stack e-commerce platform built with React/Next.js and Node.js
-- Features: User authentication, product catalog, payment integration, order management
-- Tech: Next.js, TypeScript, PostgreSQL, Prisma, Stripe
+### Full-Stack Development
+- Build **end-to-end applications** using MERN stack and Next.js
+- Implement **secure payment integrations** (Stripe, UPI, digital wallets)
+- Develop **offline-first features** for resilient applications
+- Design **scalable APIs** with REST and GraphQL
+- Deploy to **production** using AWS, Vercel, and Netlify
 
-### Tasky
-- Task management application for productivity and collaboration
-- Tech: JavaScript, MongoDB, Express.js
+### FinTech Innovation
+- Integrate **global payment processors** with India-specific compliance
+- Build **payment workflows** for digital wallets and UPI systems
+- Explore **financial data handling** and security best practices
+- Study **transaction management** and settlement systems
 
-### Netflix Front Page Clone
-- Responsive UI replica of Netflix landing page
-- Tech: HTML5, CSS3, JavaScript
+### Blockchain & Web3
+- Experiment with **smart contracts** and blockchain protocols
+- Build **decentralized applications** with Web3 fundamentals
+- Explore **scalability solutions** for blockchain networks
+- Integrate **wallet connections** (MetaMask, Web3.js)
+
+### UI/UX & Design
+- Create **user-centered interfaces** with accessibility in mind
+- Design **responsive layouts** for all devices
+- Develop **design systems** for consistency across projects
+- Craft **intuitive user experiences** that reduce friction
 
 ---
 
-## 💼 Experience
+## 🚀 Current Focus
 
-- **Full-Stack Development**: Building end-to-end solutions with React/Next.js and Node.js
-- **UI/UX Design**: Creating beautiful and intuitive interfaces using modern design tools
-- **Payment Integration**: Implementing Stripe, Razorpay, and MetaMask for secure transactions
-- **API Development**: RESTful and GraphQL APIs with proper authentication and authorization
-- **Database Design**: Relational (PostgreSQL) and NoSQL (MongoDB) database architecture
-- **Project Management**: Agile/Scrum methodologies, Jira for team collaboration
+📚 **Learning & Exploring:**
+- How **FinTech + Blockchain + Cloud** can transform digital payments
+- **Business analysis** and system design principles
+- **Scalable architecture** patterns for high-traffic applications
+- **Smart contract development** and decentralized systems
+
+💻 **Building:**
+- Full-stack applications with modern tech stacks
+- Payment-enabled platforms with security & compliance
+- Web3-integrated applications exploring blockchain use cases
+
+🤟 **Connecting:**
+- With developers, designers, and builders in the Web3 space
+- Contributing to projects that solve real-world problems
+- Learning from industry mentors and experienced engineers
 
 ---
 
-## 🎯 What I'm Currently Doing
+## 💼 Experience & Skills
 
-- 🔨 Building modern full-stack applications with Next.js and Node.js
-- 📚 Exploring advanced Web3 concepts and smart contract interactions
-- 🎨 Designing user-centered interfaces with Figma
-- 🚀 Contributing to open-source projects
+**Full-Stack Development**
+- End-to-end application development (frontend to database)
+- Building scalable systems with clean architecture
+- Implementing authentication, authorization, and security
+
+**API & Integration Development**
+- RESTful API design and implementation
+- GraphQL APIs with Apollo Server
+- Third-party integrations (Stripe, UPI, cloud services)
+
+**Database & Data Management**
+- NoSQL databases (MongoDB, Firebase)
+- Relational databases and SQL
+- Data modeling and optimization
+
+**Cloud & DevOps**
+- AWS services (EC2, S3, Lambda)
+- Continuous deployment with Vercel & Netlify
+- Database hosting with MongoDB Atlas
+
+**UI/UX & Frontend**
+- Modern React & Next.js applications
+- TypeScript for type-safe development
+- Responsive, accessible, and beautiful interfaces
+
+**Business & Soft Skills**
+- Problem-solving and critical thinking
+- Effective communication and collaboration
+- Project management and time management
+
+---
+
+## 📎 Education
+
+**B.Tech in Computer Science & Engineering**
+- **University**: GLA University
+- **Focus Areas**: Software Development, FinTech, Blockchain, Cloud Computing
+
+---
+
+## 💫 Opportunities I'm Open To
+
+- 🔘 **Internships** in Full-Stack Development, Web3, FinTech, or Cloud Computing
+- 🤟 **Collaborations** on open-source projects and innovative products
+- 🚀 **Learning Opportunities** with experienced engineers and mentors
+- 📚 **Research Projects** in blockchain, payments, or scalable systems
+- 🌱 **Freelance Projects** that align with my skill set and interests
 
 ---
 
@@ -116,24 +150,27 @@ Welcome to my GitHub! I'm a passionate developer from Mathura, India, focused on
 
 ---
 
-## 🤝 Let's Connect
+## 🤟 Let's Connect
 
 - **LinkedIn**: [linkedin.com/in/himanshu-goyal-b02bb1236](https://linkedin.com/in/himanshu-goyal-b02bb1236)
 - **Email**: [himanshu.goyal.arin@gmail.com](mailto:himanshu.goyal.arin@gmail.com)
 - **Location**: Mathura, Uttar Pradesh, India
+- **University**: GLA University, Mathura
 
 ---
 
 ## 💡 Fun Facts
 
-- ⚡ Love building scalable and performant web applications
-- 🎨 Passionate about creating beautiful user experiences
-- 🌱 Always learning and exploring new technologies
-- 🎯 Driven by solving real-world problems through code
+- ⚡ Passionate about building the **future of digital payments**
+- 🔐 Fascinated by **blockchain & decentralization**
+- 🌱 Continuously learning and exploring **emerging technologies**
+- 🎯 Driven by solving **real-world problems** through innovative solutions
+- 😊 Believe in the **power of community** and collaborative learning
 
 ---
 
 <div align="center">
-  <p>Thanks for visiting my profile! Feel free to reach out for collaboration opportunities or just to say hi! 😊</p>
-  <p>⭐ If you find my work interesting, don't forget to star my repositories!</p>
+  <p><strong>Let's build the future together! 🚀</strong></p>
+  <p>I'm always open to interesting conversations, collaboration opportunities, and internship positions.</p>
+  <p>⭐ If you find my work interesting, feel free to reach out or star my repositories!</p>
 </div>
