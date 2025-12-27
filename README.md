@@ -1,4 +1,4 @@
-# Hi there, I'm Himanshu Goyal 👋
+# Hi there, I'm Himanshu Goyal 
 
 **B.Tech CSE Student @ GLA University | Full-Stack Developer | FinTech & Web3 Enthusiast**
 
@@ -6,18 +6,18 @@ Passionate about building scalable, user-friendly applications that bridge softw
 
 ---
 
-## 🎪 About Me
+##  About Me
 
-- 🎣 **B.Tech CSE** student at GLA University with a passion for software engineering and emerging technologies
-- 💻 Building **end-to-end full-stack applications** with secure payments & offline-first features
-- 🔌 Experimenting with **blockchain + Web3 protocols** for scalable, future-ready systems
-- ☁️ Integrating **cloud solutions** (AWS, Vercel, MongoDB Atlas) for production-grade deployments
-- 🎨 Blending **UI/UX design principles** into every project for accessibility & usability
-- 📚 Strengthening skills in **business analysis** and **scalable system design**
+-  **B.Tech CSE** student at GLA University with a passion for software engineering and emerging technologies
+-  Building **end-to-end full-stack applications** with secure payments & offline-first features
+-  Experimenting with **blockchain + Web3 protocols** for scalable, future-ready systems
+-  Integrating **cloud solutions** (AWS, Vercel, MongoDB Atlas) for production-grade deployments
+-  Blending **UI/UX design principles** into every project for accessibility & usability
+-  Strengthening skills in **business analysis** and **scalable system design**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Full-Stack Development
 ![MERN](https://img.shields.io/badge/MERN%20Stack-61DAFB?style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -41,7 +41,7 @@ Passionate about building scalable, user-friendly applications that bridge softw
 
 ---
 
-## 🌟 What I Do
+##  What I Do
 
 ### Full-Stack Development
 - Build **end-to-end applications** using MERN stack and Next.js
@@ -70,27 +70,27 @@ Passionate about building scalable, user-friendly applications that bridge softw
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
-📚 **Learning & Exploring:**
+ **Learning & Exploring:**
 - How **FinTech + Blockchain + Cloud** can transform digital payments
 - **Business analysis** and system design principles
 - **Scalable architecture** patterns for high-traffic applications
 - **Smart contract development** and decentralized systems
 
-💻 **Building:**
+ **Building:**
 - Full-stack applications with modern tech stacks
 - Payment-enabled platforms with security & compliance
 - Web3-integrated applications exploring blockchain use cases
 
-🤟 **Connecting:**
+ **Connecting:**
 - With developers, designers, and builders in the Web3 space
 - Contributing to projects that solve real-world problems
 - Learning from industry mentors and experienced engineers
 
 ---
 
-## 💼 Experience & Skills
+##  Experience & Skills
 
 **Full-Stack Development**
 - End-to-end application development (frontend to database)
@@ -124,7 +124,7 @@ Passionate about building scalable, user-friendly applications that bridge softw
 
 ---
 
-## 📎 Education
+##  Education
 
 **B.Tech in Computer Science & Engineering**
 - **University**: GLA University
@@ -132,17 +132,17 @@ Passionate about building scalable, user-friendly applications that bridge softw
 
 ---
 
-## 💫 Opportunities I'm Open To
+##  Opportunities I'm Open To
 
-- 🔘 **Internships** in Full-Stack Development, Web3, FinTech, or Cloud Computing
-- 🤟 **Collaborations** on open-source projects and innovative products
-- 🚀 **Learning Opportunities** with experienced engineers and mentors
-- 📚 **Research Projects** in blockchain, payments, or scalable systems
-- 🌱 **Freelance Projects** that align with my skill set and interests
+-  **Internships** in Full-Stack Development, Web3, FinTech, or Cloud Computing
+-  **Collaborations** on open-source projects and innovative products
+-  **Learning Opportunities** with experienced engineers and mentors
+-  **Research Projects** in blockchain, payments, or scalable systems
+-  **Freelance Projects** that align with my skill set and interests
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshugoyal2582003&show_icons=true&theme=dark)
 
@@ -167,7 +167,7 @@ A comprehensive food delivery application designed to connect customers with res
 
 **Tech Stack:**
 - **Frontend**: React, Next.js, TypeScript
-- **Backend**: Node.js, Express, NestJS
+- **Backend**: Node.js, Express, NestJS , 
 - **Database**: MongoDB, PostgreSQL
 - **Payments**: Stripe, Razorpay, UPI integration
 - **Deployment**: Vercel, AWS, MongoDB Atlas
@@ -196,7 +196,7 @@ A comprehensive food delivery application designed to connect customers with res
 
 ---
 
-## 🤟 Let's Connect
+##  Let's Connect
 
 - **LinkedIn**: [linkedin.com/in/himanshu-goyal-b02bb1236](https://linkedin.com/in/himanshu-goyal-b02bb1236)
 - **Email**: [himanshu.goyal.arin@gmail.com](mailto:himanshu.goyal.arin@gmail.com)
@@ -205,18 +205,18 @@ A comprehensive food delivery application designed to connect customers with res
 
 ---
 
-## 💡 Fun Facts
+##  Fun Facts
 
-- ⚡ Passionate about building the **future of digital payments**
-- 🔐 Fascinated by **blockchain & decentralization**
-- 🌱 Continuously learning and exploring **emerging technologies**
-- 🎯 Driven by solving **real-world problems** through innovative solutions
-- 😊 Believe in the **power of community** and collaborative learning
+-  Passionate about building the **future of digital payments**
+-  Fascinated by **blockchain & decentralization**
+-  Continuously learning and exploring **emerging technologies**
+-  Driven by solving **real-world problems** through innovative solutions
+-  Believe in the **power of community** and collaborative learning
 
 ---
 
 <div align="center">
-  <p><strong>Let's build the future together! 🚀</strong></p>
+  <p><strong>Let's build the future together! </strong></p>
   <p>I'm always open to interesting conversations, collaboration opportunities, and internship positions.</p>
-  <p>⭐ If you find my work interesting, feel free to reach out or star my repositories!</p>
+  <p> If you find my work interesting, feel free to reach out or star my repositories!</p>
 </div>
