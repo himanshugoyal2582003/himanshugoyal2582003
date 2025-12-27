@@ -1,4 +1,19 @@
-# Hi there, I'm Himanshu Goyal 
+<div align="center">
+
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Himanshu+Goyal;Full-Stack+Developer+(MERN+%26+Next.js);FinTech+%26+Web3+Enthusiast;B.Tech+CSE+Student+@+GLA+University" alt="Typing SVG" />
+
+  <!-- Profile Card -->
+  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 18px; border-radius: 10px; margin: 20px 0; max-width: 820px;">
+    <p style="font-size: 1.05em; margin: 0;">
+      ⚡ <b>Full-Stack Developer</b> | 🛠️ <b>Scalable Systems Builder</b> | 🎨 <b>UI/UX Focused</b>
+    </p>
+    
+  </div>
+
+</div>
+
+
 
 **B.Tech CSE Student @ GLA University | Full-Stack Developer | FinTech & Web3 Enthusiast**
 
