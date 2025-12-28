@@ -6,7 +6,7 @@
   <!-- Profile Card -->
   <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 18px; border-radius: 10px; margin: 20px 0; max-width: 820px;">
     <p style="font-size: 1.05em; margin: 0;">
-      ⚡ <b>Full-Stack Developer</b> | 🛠️ <b>Scalable Systems Builder</b> | 🎨 <b>UI/UX Focused</b>
+      ⚡ <b>Full-Stack Developer aND Android Apps</b> | 🛠️ <b>Scalable Systems Builder</b> | 🎨 <b>UI/UX Focused</b>
     </p>
     
   </div>
