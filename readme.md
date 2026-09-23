@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=600&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=%F0%9F%9A%80+Building+Gharzy+Food+Delivery+Platform%3B%E2%9A%93%EF%B8%8F+Exploring+Web3+%26+Smart+Contracts%3B%F0%9F%A4%96+Agentic+AI+%7C+IBM+SkillsBuild+%7C+TCS+iON%3B%F0%9F%8F%86+HCLTech+National+Rank+%231379+%2F+4%2C800%2B%3B%F0%9F%92%BB+324%2B+DSA+Problems+Solved+Across+6+Platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=600&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Building+Gharzy+Food+Delivery+Platform;Exploring+Web3+%26+Smart+Contracts;Agentic+AI+%7C+IBM+SkillsBuild+%7C+TCS+iON;HCLTech+National+Rank+%231379;324%2B+DSA+Problems+Solved" alt="Typing SVG" />
 
 <br/>
 
@@ -141,8 +141,8 @@ const himanshu = {
 ## 📊 Live GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=himanshugoyal2582003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=himanshugoyal2582003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="langs"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=himanshugoyal2582003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=himanshugoyal2582003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="langs"/>
 </div>
 
 <div align="center">
@@ -186,9 +186,9 @@ A comprehensive food delivery app connecting customers with restaurants.
 </td>
 <td width="40%">
 
-[![Gharzy TypeScript](https://github-readme-stats-fast.vercel.app/api/pin/?username=himanshugoyal2582003&repo=Gharzy_main2&theme=tokyonight&hide_border=true)](https://github.com/himanshugoyal2582003/Gharzy_main2)
+[![Gharzy TypeScript](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=himanshugoyal2582003&repo=Gharzy_main2&theme=tokyonight&hide_border=true)](https://github.com/himanshugoyal2582003/Gharzy_main2)
 
-[![Gharzy JavaScript](https://github-readme-stats-fast.vercel.app/api/pin/?username=himanshugoyal2582003&repo=Gharzy_main&theme=tokyonight&hide_border=true)](https://github.com/himanshugoyal2582003/Gharzy_main)
+[![Gharzy JavaScript](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=himanshugoyal2582003&repo=Gharzy_main&theme=tokyonight&hide_border=true)](https://github.com/himanshugoyal2582003/Gharzy_main)
 
 </td>
 </tr>
