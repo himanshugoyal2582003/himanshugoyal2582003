@@ -141,8 +141,8 @@ const himanshu = {
 ## 📊 Live GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=himanshugoyal2582003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=himanshugoyal2582003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshugoyal2582003&theme=tokyonight" height="180" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshugoyal2582003&theme=tokyonight" height="180" alt="langs"/>
 </div>
 
 <div align="center">
@@ -186,9 +186,11 @@ A comprehensive food delivery app connecting customers with restaurants.
 </td>
 <td width="40%">
 
-[![Gharzy TypeScript](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=himanshugoyal2582003&repo=Gharzy_main2&theme=tokyonight&hide_border=true)](https://github.com/himanshugoyal2582003/Gharzy_main2)
+[![Gharzy TypeScript](https://img.shields.io/badge/Gharzy_TypeScript-Full_Stack_Food_Delivery_Platform-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/himanshugoyal2582003/Gharzy_main2)
 
-[![Gharzy JavaScript](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=himanshugoyal2582003&repo=Gharzy_main&theme=tokyonight&hide_border=true)](https://github.com/himanshugoyal2582003/Gharzy_main)
+<br/><br/>
+
+[![Gharzy JavaScript](https://img.shields.io/badge/Gharzy_JavaScript-Backend_REST_API_Service-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/himanshugoyal2582003/Gharzy_main)
 
 </td>
 </tr>
@@ -337,7 +339,7 @@ A blockchain transaction fraud detection system using graph analytics and ML.
 ║  Active Days (Codolio)   ║  145 Days                      ║
 ║  Global Rank (C-Score)   ║  ~29,993                       ║
 ╚══════════════════════════╩════════════════════════════════╝
-```
+```  
 
 | Platform | Profile | Stats |
 |:---:|:---:|:---:|
